@@ -3,7 +3,7 @@
 >[!NOTE]
 >Todo o projeto está disponível no meu perfil no [Tinkercard](https://www.tinkercad.com/things/61z2brH3l1v-conexao-led-com-o-arduino?sharecode=Sg2ym6PjBLobUdnRyUxfOiIvHEMOElWz4xsYSS5Or_k)
 
-Projeto desenvolvido como atividade na faculdade
+Projeto desenvolvido como atividade academica.
 
 ## Hardware
 
