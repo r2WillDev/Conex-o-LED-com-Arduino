@@ -26,7 +26,7 @@ Projeto desenvolvido como atividade academica.
 
 Resumindo, este código faz um LED piscar: ele fica ligado por 3 segundos e desligado por 5 segundos, repetindo esse padrão indefinidamente enquanto o Arduino estiver ligado e rodando o programa.
 
-```
+```C++
 
 // C++ code
 //
